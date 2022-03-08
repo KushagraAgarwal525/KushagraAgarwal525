@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KushagraAgarwal525
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript and Ruby
-- 💞️ I’m looking to collaborate on web development projects that are intended to bring abput a positive change in our society
+- 💞️ I’m looking to collaborate on web development projects that are intended to bring about a positive change in our society
 - 📫 How to reach me Email :- kushagraagarwal525.ka@gmail.com
 
 <!---
