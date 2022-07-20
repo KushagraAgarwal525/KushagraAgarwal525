@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushagraAgarwal525
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning MERN and Artificial Intelligence
+- 🌱 I’m currently learning R and Artificial Intelligence
 - 💞️ I’m looking to collaborate on web development projects that are intended to bring about a positive change in our society
 - 📫 How to reach me Email :- kushagraagarwal525.ka@gmail.com
 
