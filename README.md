@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KushagraAgarwal525
 - 👀 I’m interested in AI and Web Development
 - 🌱 I’m currently building
-  - My own PDF Viewer because the existing ones suck
-  - A Quantum Neural Network for image classification (for a specific purpose)
+  - A Quantum Neural Network for image classification
   - Tiny side projects here and there
 - 💞️ I’m looking to collaborate on projects that are intended to bring about a positive change in our society
 - 📫 How to reach me Email :- kushagraagarwal525.ka@gmail.com
