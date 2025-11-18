@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on projects that are intended to bring about a positive change in our society
 - 📫 How to reach me Email :- kushagraagarwal525.ka@gmail.com
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraAgarwal525&hide=css,scss,html,procfile&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraAgarwal525&hide=css,scss,html,procfile,jupyter%20notebook&theme=tokyonight)
 
 <!---
 KushagraAgarwal525/KushagraAgarwal525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
